@@ -1,0 +1,10 @@
+pagead2.googlesyndication.com
+adservice.google.com
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+googleads.g.doubleclick.net
+tpc.googlesyndication.com
+imasdk.googleapis.com
+s.youtube.com
+youtubei.googleapis.com
+youtube.com/get_midroll
